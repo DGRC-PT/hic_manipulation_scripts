@@ -64,7 +64,7 @@ The Wraper as a graphic interface that can be called using:
 <pre><code>python make_TADs_Heatmaps.py
 </code></pre>
 
-![Input interface]https://github.com/DGRC-PT/hic_manipulation_scripts/blob/master/heatmap_input.png
+![Input interface](https://github.com/DGRC-PT/hic_manipulation_scripts/blob/master/heatmap_input.png)
 
 ###Dependencies:
 + Python
